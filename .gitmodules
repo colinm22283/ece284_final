@@ -1,0 +1,3 @@
+[submodule "software/result/VGG16"]
+	path = software/result/VGG16
+	url = https://cmcgann.com/githttp/ece284_final_model.git
